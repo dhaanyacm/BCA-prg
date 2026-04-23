@@ -1,5 +1,5 @@
 # BCA-prg
-the respository contains bca programs
+the respository contains BCA programs
 ## Subjects :
 - Python
 - DBMS
